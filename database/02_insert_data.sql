@@ -8,7 +8,11 @@
 -- 1. DATOS DE PAISES
 INSERT INTO public.paises (pais_nombre)
 VALUES
-    ('Venezuela');
+    ('Colombia'),
+    ('Argentina'),
+    ('Chile'),
+    ('Peru'),
+    ('Uruguay'),
 
 
 -- 2. DATOS DE CIUDADES
